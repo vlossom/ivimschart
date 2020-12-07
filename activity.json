@@ -6,7 +6,7 @@
         "unit": "rpm",
         "type": "line",
         "valueDecimals": 0,
-        "max": 2100,
+        "max": 2000,
         "color": #ee5555
     }, {
         "name": "속도",
